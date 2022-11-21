@@ -1,5 +1,6 @@
 # pokemon-battle
 
+## General info
 a Pokemon variation of rock-paper-scissors with HTML, CSS and JavaScript
 
 ## Technologies
